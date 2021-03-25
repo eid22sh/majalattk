@@ -1,0 +1,140 @@
+Date : 2020-12-28 15:58:41
+Directory : /home/djamel/Developement/Flutter Apps/majalatek/lib
+Total : 75 files,  6872 codes, 62 comments, 386 blanks, all 7320 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         75 |      6,872 |         62 |        386 |      7,320 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                          |         75 |      6,872 |         62 |        386 |      7,320 |
+| models                                                                                                                     |          1 |        117 |          0 |          7 |        124 |
+| models/providers                                                                                                           |          1 |        117 |          0 |          7 |        124 |
+| services                                                                                                                   |          7 |      1,035 |          8 |         70 |      1,113 |
+| services/Language                                                                                                          |          2 |        264 |          0 |          5 |        269 |
+| utils                                                                                                                      |          7 |        135 |          8 |         34 |        177 |
+| utils/textValidator                                                                                                        |          1 |         37 |          8 |          7 |         52 |
+| view                                                                                                                       |         59 |      5,559 |         46 |        272 |      5,877 |
+| view/bloc                                                                                                                  |          3 |         57 |          0 |         12 |         69 |
+| view/bloc/Providers                                                                                                        |          1 |         28 |          0 |          2 |         30 |
+| view/bloc/flagBloc                                                                                                         |          1 |         11 |          0 |          4 |         15 |
+| view/bloc/searchBloc                                                                                                       |          1 |         18 |          0 |          6 |         24 |
+| view/components                                                                                                            |         18 |      1,251 |         16 |         71 |      1,338 |
+| view/components/drawer                                                                                                     |          1 |        132 |          0 |          2 |        134 |
+| view/dialogs                                                                                                               |          3 |        166 |          0 |          9 |        175 |
+| view/routes                                                                                                                |          1 |        111 |          0 |          3 |        114 |
+| view/screens                                                                                                               |         33 |      3,936 |         25 |        164 |      4,125 |
+| view/screens/BeforeLoginScreen                                                                                             |          1 |         67 |          0 |          2 |         69 |
+| view/screens/ChatScreen                                                                                                    |          1 |        166 |          4 |          9 |        179 |
+| view/screens/ContinueRegisterScreen                                                                                        |          1 |        232 |          0 |         13 |        245 |
+| view/screens/ConverstaionScreen                                                                                            |          1 |          0 |          0 |          1 |          1 |
+| view/screens/DeparmentsScreen                                                                                              |          1 |        107 |          0 |          3 |        110 |
+| view/screens/EditContactsScreen                                                                                            |          2 |        148 |          1 |          6 |        155 |
+| view/screens/EditContactsScreen/widgets                                                                                    |          1 |         46 |          0 |          3 |         49 |
+| view/screens/EditImages                                                                                                    |          1 |        210 |          0 |          9 |        219 |
+| view/screens/HomeScreen                                                                                                    |          3 |        574 |         15 |         20 |        609 |
+| view/screens/HomeScreen/widgets                                                                                            |          2 |        245 |         15 |          8 |        268 |
+| view/screens/PhoneScreen                                                                                                   |          1 |        114 |          0 |          5 |        119 |
+| view/screens/RateProviderScreen                                                                                            |          2 |        259 |          0 |          9 |        268 |
+| view/screens/RateProviderScreen/widgets                                                                                    |          1 |         41 |          0 |          4 |         45 |
+| view/screens/RegisterScreen                                                                                                |          2 |        345 |          1 |         18 |        364 |
+| view/screens/RegisterScreen/dialog                                                                                         |          1 |         69 |          1 |          4 |         74 |
+| view/screens/SearchProvidersScreen                                                                                         |          3 |        254 |          0 |         10 |        264 |
+| view/screens/SearchProvidersScreen/widgets                                                                                 |          2 |        113 |          0 |          6 |        119 |
+| view/screens/SearchResultScreen                                                                                            |          1 |        107 |          0 |          3 |        110 |
+| view/screens/SpecialProfileScreen                                                                                          |          6 |        642 |          4 |         22 |        668 |
+| view/screens/SpecialProfileScreen/widgets                                                                                  |          5 |        492 |          4 |         15 |        511 |
+| view/screens/SplashScreen                                                                                                  |          1 |         46 |          0 |          7 |         53 |
+| view/screens/UpdateScreen                                                                                                  |          1 |        249 |          0 |         12 |        261 |
+| view/screens/VerifyPhoneScreen                                                                                             |          1 |        108 |          0 |          4 |        112 |
+| view/screens/WelcomingScreens                                                                                              |          4 |        308 |          0 |         11 |        319 |
+| view/screens/WelcomingScreens/widgets                                                                                      |          1 |         71 |          0 |          2 |         73 |
++----------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                   | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/main.dart                                                             | Dart     |         26 |          0 |          3 |         29 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/models/providers/providers_model.dart                                 | Dart     |        117 |          0 |          7 |        124 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/Language/data.dart                                           | Dart     |        246 |          0 |          3 |        249 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/Language/language_service.dart                               | Dart     |         18 |          0 |          2 |         20 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/auth_service.dart                                            | Dart     |        145 |          4 |          8 |        157 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/chat_service.dart                                            | Dart     |         54 |          0 |          8 |         62 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/location_service.dart                                        | Dart     |         72 |          0 |          9 |         81 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/providers_service.dart                                       | Dart     |        450 |          4 |         30 |        484 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/services/storage_service.dart                                         | Dart     |         50 |          0 |         10 |         60 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/constants.dart                                                  | Dart     |          2 |          0 |          2 |          4 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/distance_calculator.dart                                        | Dart     |          9 |          0 |          2 |         11 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/image_uploader.dart                                             | Dart     |         17 |          0 |          2 |         19 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/response.dart                                                   | Dart     |          6 |          0 |          2 |          8 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/textValidator/validator.dart                                    | Dart     |         37 |          8 |          7 |         52 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/url_launcher.dart                                               | Dart     |         16 |          0 |          3 |         19 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/utils/widget_convertor.dart                                           | Dart     |         48 |          0 |         16 |         64 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/bloc/Providers/providers_bloc.dart                               | Dart     |         28 |          0 |          2 |         30 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/bloc/flagBloc/flag_bloc.dart                                     | Dart     |         11 |          0 |          4 |         15 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/bloc/searchBloc/search_bloc.dart                                 | Dart     |         18 |          0 |          6 |         24 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/app_bar_icons.dart                                    | Dart     |         49 |          8 |          3 |         60 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/borderRoundedButton.dart                              | Dart     |         27 |          0 |          3 |         30 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/choice_widget.dart                                    | Dart     |         43 |          1 |          6 |         50 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/contact_icon.dart                                     | Dart     |         39 |          0 |          3 |         42 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/contacts_widget.dart                                  | Dart     |        184 |          7 |          6 |        197 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/custom_text_field_widget.dart                         | Dart     |         81 |          0 |          3 |         84 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/day_widget.dart                                       | Dart     |         24 |          0 |          4 |         28 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/drawer/drawe.dart                                     | Dart     |        132 |          0 |          2 |        134 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/expanded_provider_widget.dart                         | Dart     |        200 |          0 |          8 |        208 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/flag_drop_down.dart                                   | Dart     |         38 |          0 |          4 |         42 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/profile_circle_widget.dart                            | Dart     |         22 |          0 |          3 |         25 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/profile_picture_widget.dart                           | Dart     |         51 |          0 |          3 |         54 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/provider_rating_widget.dart                           | Dart     |         41 |          0 |          2 |         43 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/rate_button.dart                                      | Dart     |         53 |          0 |          4 |         57 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/search_bar.dart                                       | Dart     |         38 |          0 |          3 |         41 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/sliding_provider_widget.dart                          | Dart     |        163 |          0 |          6 |        169 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/svg_button.dart                                       | Dart     |         23 |          0 |          3 |         26 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/components/working_times.dart                                    | Dart     |         43 |          0 |          5 |         48 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/constants.dart                                                   | Dart     |         38 |          5 |         13 |         56 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/dialogs/error_dialog.dart                                        | Dart     |         33 |          0 |          3 |         36 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/dialogs/pick_time_dialog.dart                                    | Dart     |        102 |          0 |          4 |        106 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/dialogs/wait_pop_up.dart                                         | Dart     |         31 |          0 |          2 |         33 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/routes/routes.dart                                               | Dart     |        111 |          0 |          3 |        114 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/BeforeLoginScreen/before_login_screen.dart               | Dart     |         67 |          0 |          2 |         69 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/ChatScreen/chat_screen.dart                              | Dart     |        166 |          4 |          9 |        179 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/ContinueRegisterScreen/continue_register_screen.dart     | Dart     |        232 |          0 |         13 |        245 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/ConverstaionScreen/conversations_screen.dart             | Dart     |          0 |          0 |          1 |          1 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/DeparmentsScreen/departments_screen.dart                 | Dart     |        107 |          0 |          3 |        110 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/EditContactsScreen/edit_contact_screen.dart              | Dart     |        102 |          1 |          3 |        106 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/EditContactsScreen/widgets/social_media_textfield.dart   | Dart     |         46 |          0 |          3 |         49 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/EditImages/edit_images_screen.dart                       | Dart     |        210 |          0 |          9 |        219 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/HomeScreen/home_screen.dart                              | Dart     |        329 |          0 |         12 |        341 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/HomeScreen/widgets/provider_marker.dart                  | Dart     |         42 |          0 |          2 |         44 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/HomeScreen/widgets/provider_widget.dart                  | Dart     |        203 |         15 |          6 |        224 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/PhoneScreen/phone_screen.dart                            | Dart     |        114 |          0 |          5 |        119 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/RateProviderScreen/rate_provider_screen.dart             | Dart     |        218 |          0 |          5 |        223 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/RateProviderScreen/widgets/rate_line_widget.dart         | Dart     |         41 |          0 |          4 |         45 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/RegisterScreen/dialog/spec_dialog.dart                   | Dart     |         69 |          1 |          4 |         74 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/RegisterScreen/register_screen.dart                      | Dart     |        276 |          0 |         14 |        290 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SearchProvidersScreen/search_providers_screen.dart       | Dart     |        141 |          0 |          4 |        145 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SearchProvidersScreen/widgets/departments_widget.dart    | Dart     |         60 |          0 |          3 |         63 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SearchProvidersScreen/widgets/speciality_widget.dart     | Dart     |         53 |          0 |          3 |         56 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SearchResultScreen/search_result_screen.dart             | Dart     |        107 |          0 |          3 |        110 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SpecialProfileScreen/special_profile_screen.dart         | Dart     |        150 |          0 |          7 |        157 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SpecialProfileScreen/widgets/description_widget.dart     | Dart     |         68 |          2 |          3 |         73 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SpecialProfileScreen/widgets/images_widget.dart          | Dart     |         96 |          1 |          2 |         99 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SpecialProfileScreen/widgets/rating_detail_widdget.dart  | Dart     |         38 |          0 |          4 |         42 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SpecialProfileScreen/widgets/rating_provider_widget.dart | Dart     |        116 |          0 |          3 |        119 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SpecialProfileScreen/widgets/timing_widget.dart          | Dart     |        174 |          1 |          3 |        178 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/SplashScreen/splash_screen.dart                          | Dart     |         46 |          0 |          7 |         53 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/UpdateScreen/update_screen.dart                          | Dart     |        249 |          0 |         12 |        261 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/VerifyPhoneScreen/verfiy_phone_screen.dart               | Dart     |        108 |          0 |          4 |        112 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/WelcomingScreens/lang_screen.dart                        | Dart     |         86 |          0 |          5 |         91 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/WelcomingScreens/welcome_screen1.dart                    | Dart     |         64 |          0 |          2 |         66 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/WelcomingScreens/welcome_screen2.dart                    | Dart     |         87 |          0 |          2 |         89 |
+| /home/djamel/Developement/Flutter Apps/majalatek/lib/view/screens/WelcomingScreens/widgets/lang_item.dart                  | Dart     |         71 |          0 |          2 |         73 |
+| Total                                                                                                                      |          |      6,872 |         62 |        386 |      7,320 |
++----------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
